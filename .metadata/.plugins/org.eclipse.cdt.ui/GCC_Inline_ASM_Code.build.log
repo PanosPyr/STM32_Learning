@@ -1,0 +1,9 @@
+16:05:04 **** Clean-only build of configuration Debug for project GCC_Inline_ASM_Code ****
+make -j12 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf GCC_Inline_ASM_Code.elf GCC_Inline_ASM_Code.list GCC_Inline_ASM_Code.map default.size.stdout
+ 
+
+16:05:05 Build Finished. 0 errors, 0 warnings. (took 155ms)
+

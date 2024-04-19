@@ -1,0 +1,10 @@
+2024-02-28 11:40:33,596 [INFO] MainUpdater:2873 - connection check result : 10
+2024-02-28 11:40:33,730 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-02-28 11:40:33,731 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-02-28 11:40:33,731 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-02-28 11:40:35,186 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-02-28 11:40:35,187 [INFO] DetailPanel:341 - Set advertising image to C:/Users/pyrga/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-02-28 11:40:38,513 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (C:\Users\pyrga\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2024-02-28 11:41:04,857 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-02-28 11:41:04,860 [INFO] ApiDb:448 - Save user favorites file C:\Users\pyrga/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-02-28 11:41:04,860 [INFO] ApiDb:452 - User favorites MCUs=[]

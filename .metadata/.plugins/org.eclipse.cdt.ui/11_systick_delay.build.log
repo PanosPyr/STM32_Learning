@@ -1,0 +1,9 @@
+16:04:25 **** Clean-only build of configuration Debug for project 11_systick_delay ****
+make -j12 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/adc.cyclo ./Src/adc.d ./Src/adc.o ./Src/adc.su ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su ./Src/systick.cyclo ./Src/systick.d ./Src/systick.o ./Src/systick.su ./Src/uart.cyclo ./Src/uart.d ./Src/uart.o ./Src/uart.su
+rm -rf 11_systick_delay.elf 11_systick_delay.list 11_systick_delay.map default.size.stdout
+ 
+
+16:04:25 Build Finished. 0 errors, 0 warnings. (took 159ms)
+

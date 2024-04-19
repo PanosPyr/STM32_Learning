@@ -1,0 +1,9 @@
+16:05:05 **** Clean-only build of configuration Debug for project PeriphClockEnable_HSI_Measurement ****
+make -j12 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf PeriphClockEnable_HSI_Measurement.elf PeriphClockEnable_HSI_Measurement.list PeriphClockEnable_HSI_Measurement.map default.size.stdout
+ 
+
+16:05:05 Build Finished. 0 errors, 0 warnings. (took 156ms)
+

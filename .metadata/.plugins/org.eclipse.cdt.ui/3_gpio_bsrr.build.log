@@ -1,0 +1,9 @@
+16:04:28 **** Clean-only build of configuration Debug for project 3_gpio_bsrr ****
+make -j12 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 3_gpio_bsrr.elf 3_gpio_bsrr.list 3_gpio_bsrr.map default.size.stdout
+ 
+
+16:04:28 Build Finished. 0 errors, 0 warnings. (took 156ms)
+

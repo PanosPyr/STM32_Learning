@@ -1,0 +1,2 @@
+2024-02-22 13:23:21,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Warning: NLS missing message: GotoMatchingBracket_error_noMatchingBracket in: org.eclipse.ui.internal.genericeditor.messages
+2024-02-22 13:23:21,842 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Warning: NLS missing message: GotoMatchingBracket_error_bracketOutsideSelectedElement in: org.eclipse.ui.internal.genericeditor.messages

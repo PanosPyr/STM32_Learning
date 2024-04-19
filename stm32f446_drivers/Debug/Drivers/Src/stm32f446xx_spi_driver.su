@@ -1,0 +1,11 @@
+../Drivers/Src/stm32f446xx_spi_driver.c:13:6:SPI_PeriClockControl	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:50:6:SPI_Init	24	static
+../Drivers/Src/stm32f446xx_spi_driver.c:97:6:SPI_DeInit	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:125:6:SPI_Send	24	static
+../Drivers/Src/stm32f446xx_spi_driver.c:152:6:SPI_Receive	24	static
+../Drivers/Src/stm32f446xx_spi_driver.c:160:6:SPI_IRQInterruptConfig	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:165:6:SPI_IRQPriorityConfig	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:170:6:SPI_IRQHandling	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:175:6:SPI_PeripheralControl	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:181:6:SPI_SSIConfig	16	static
+../Drivers/Src/stm32f446xx_spi_driver.c:187:6:SPI_SSOEConfig	16	static

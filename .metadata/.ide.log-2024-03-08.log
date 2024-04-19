@@ -1,0 +1,9 @@
+2024-03-09 00:28:20,971 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-03-09 00:28:20,991 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-03-09 00:28:20,991 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-03-09 00:28:20,992 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2024-03-09 00:28:20,994 [FATAL] Updater:308 - Updater called before beeing initialized
+2024-03-09 00:28:21,250 [ERROR] Updater:1120 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2024-03-09 00:28:21,285 [INFO] Updater:1056 - Updater Version found : 6.10.0
+2024-03-09 00:28:21,327 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037
+2024-03-09 00:28:22,319 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [3/15]

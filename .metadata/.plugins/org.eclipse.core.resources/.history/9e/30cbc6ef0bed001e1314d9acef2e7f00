@@ -1,0 +1,22 @@
+/*
+ * generic.h
+ *
+ *  Created on: Mar 28, 2024
+ *      Author: Panospyr
+ */
+
+#ifndef INC_GENERIC_H_
+#define INC_GENERIC_H_
+
+#include "stm32f4xx.h"
+
+#define GPIO_BASEADDR_TO_CODE(x)	( (x == GPIOA) ? 0 :\
+									(x == GPIOB) ? 1 :\
+									(x == GPIOC) ? 2 :\
+									(x == GPIOD) ? 3 :\
+									(x == GPIOE) ? 4 :\
+									(x == GPIOF) ? 5 :\
+									(x == GPIOG) ? 6 :\
+									(x == GPIOH) ? 7 :0 )
+
+#endif /* INC_GENERIC_H_ */

@@ -1,0 +1,17 @@
+/*
+ * 005spi_tx_test.c
+ *
+ *  Created on: Mar 29, 2024
+ *      Author: Panospyr
+ */
+
+#include <stdint.h>
+//#include <string.h>
+#include "stm32f4xx.h"
+#include "stm32f446xx_spi_driver.h"
+
+
+int main(void)
+{
+	return 0;
+}
